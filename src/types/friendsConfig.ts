@@ -6,7 +6,7 @@ export type FriendLink = {
 	siteurl: string; // 友链地址
 	tags?: string[]; // 标签数组
 	weight: number; // 权重，数字越大排序越靠前
-	enabled: boolean; // 是否启用
+	enabled: false; // 是否启用
 };
 
 export type FriendsPageConfig = {
