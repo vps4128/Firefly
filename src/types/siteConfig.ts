@@ -88,13 +88,13 @@ export type SiteConfig = {
 	pages: {
 		booknav: boolean; // 书签导航页面开关
 		friends: false; // 友链页面开关
-		sponsor: boolean; // 打赏页面开关
-		guestbook: boolean; // 留言板页面开关
+		sponsor: false; // 打赏页面开关
+		guestbook: false; // 留言板页面开关
 		bangumi: boolean;
 		vndb: boolean;
 		mal: boolean; // MyAnimeList 页面开关
-		gallery: boolean; // 相册页面开关
-		bilibili: boolean; // 哔哩哔哩追番页面开关
+		gallery: false; // 相册页面开关
+		bilibili: false; // 哔哩哔哩追番页面开关
 		dynamic: boolean; // 动态页面开关
 	};
 
