@@ -4,7 +4,7 @@ export type AnnouncementConfig = {
 	content: string; // 公告栏内容
 	icon?: string; // 公告栏图标
 	type?: "info" | "warning" | "success" | "error"; // 公告类型
-	closable?: boolean; // 是否可关闭
+	closable?: true; // 是否可关闭
 	link?: {
 		enable: boolean; // 是否启用链接
 		text: string; // 链接文字
