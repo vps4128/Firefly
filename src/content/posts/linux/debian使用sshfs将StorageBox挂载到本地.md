@@ -6,7 +6,6 @@ pinned: false
 description: 将StorageBox挂载到本地，方便进行管理
 tags: [Debian,Linux]
 category: Linux
-#image: ./images/firefly3.avif
 ---
 
 
@@ -60,7 +59,7 @@ your-storage-box.domain:sftp地址，可填写IP/域名
 ```
 ls -lah /mnt/storage
 ```
-如果能够看到 Storage Box 的目录，就成功了。
+如果能够看到Storage Box的目录，就成功了。
 
 7.（可选）使用脚本快速挂载
 =============
