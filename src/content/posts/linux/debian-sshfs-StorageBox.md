@@ -1,7 +1,6 @@
 ---
-title: Debian系统使用sshfs将StorageBox挂载到本地
+title: Debian使用sshfs将StorageBox挂载到本地
 published: 2026-10-06
-
 pinned: false
 description: 将StorageBox挂载到本地，方便进行管理
 tags: [Debian,Linux]
