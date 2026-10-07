@@ -20,9 +20,9 @@ sudo apt install sshfs -y
 sshfs --version
 ```
 返回如下图显示版本号即安装成功
-
-![20261006_212227.png](https://box.240427.xyz/images/2026/10/06/20261006_212227.png)
-
+```
+SSHFS version 3.7.3
+```
 3.创建本地挂载目录
 =============
 ```
