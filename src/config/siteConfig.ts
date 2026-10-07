@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Blog",
 
 	// 站点 URL
-	site_url: "httphttps://blog.roll2eat.com",
+	site_url: "https://blog.roll2eat.com",
 
 	// 站点描述
 	description:
