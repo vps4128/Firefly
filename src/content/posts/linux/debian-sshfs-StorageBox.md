@@ -34,7 +34,7 @@ sudo mkdir -p /mnt/storage
 mkdir -p /root/.config/sshfs
 nano /root/.config/sshfs/storagebox.pass
 ```
-storagebox.pass里面只放你的Storage Box密码
+storagebox.pass里面只放你的StorageBoxd的sftp密码
 保存后：
 ```
 chmod 600 /root/.config/sshfs/storagebox.pass
