@@ -86,7 +86,7 @@ export type SiteConfig = {
 
 	// 页面开关配置
 	pages: {
-		booknav: boolean; // 书签导航页面开关
+		booknav: false; // 书签导航页面开关
 		friends: false; // 友链页面开关
 		sponsor: false; // 打赏页面开关
 		guestbook: false; // 留言板页面开关
@@ -95,7 +95,7 @@ export type SiteConfig = {
 		mal: boolean; // MyAnimeList 页面开关
 		gallery: false; // 相册页面开关
 		bilibili: false; // 哔哩哔哩追番页面开关
-		dynamic: boolean; // 动态页面开关
+		dynamic: false; // 动态页面开关
 	};
 
 	// 分类导航栏开关
