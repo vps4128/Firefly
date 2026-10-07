@@ -135,8 +135,8 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	// 	icon: "material-symbols:docs",
 	// });
 
-// 	return { links } as NavBarConfig;
-// };
+ 	return { links } as NavBarConfig;
+ };
 
 // 导航搜索配置
 export const navBarSearchConfig: NavBarSearchConfig = {
