@@ -47,11 +47,6 @@ sshfs username@:your-storage-box.domain:/ /mnt/storage \
   -o password_stdin \
   < /root/.config/sshfs/storagebox.pass
 ```
-username:你的sftp用户名
-
-your-storage-box.domain:sftp地址，可填写IP/域名
-
-目录：:/后面跟的是sftp的目录，/mnt/storage是本地目录
 
 6.验证是否挂载成功
 =============
