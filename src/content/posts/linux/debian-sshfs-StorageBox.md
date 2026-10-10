@@ -19,7 +19,7 @@ sudo apt install sshfs -y
 ```
 sshfs --version
 ```
-返回如下图显示版本号即安装成功
+返回如下显示版本号即安装成功
 ```
 SSHFS version 3.7.3
 ```
